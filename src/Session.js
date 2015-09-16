@@ -1,4 +1,4 @@
-var QuickStep = require('./QuickStep.js');
+var QuickStep = require('QuickStep');
 var Session = new QuickStep.Model('Session', [
 	  'token'
 	, 'loginTime'

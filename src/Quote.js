@@ -1,4 +1,4 @@
-var QuickStep = require('./QuickStep.js');
+var QuickStep = require('QuickStep');
 var Quote = new QuickStep.Model('Comment', [
 	  'id'
 	, 'locationId'

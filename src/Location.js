@@ -1,4 +1,4 @@
-var QuickStep = require('./QuickStep.js');
+var QuickStep = require('QuickStep');
 var Bookdex = require('./index.js');
 var Location = new QuickStep.Model('Location', [
 	  'id'

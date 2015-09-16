@@ -1,4 +1,4 @@
-var QuickStep = require('./QuickStep.js');
+var QuickStep = require('QuickStep');
 var Book = require('./Book.js');
 var Entry = require('./Entry.js');
 var Quote = require('./Quote.js');

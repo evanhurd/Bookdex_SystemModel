@@ -1,15 +1,12 @@
 {
-  "name": "Bookdex System Model",
+  "name": "Bookdex_SystemModel",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "browserify src/index.js > index.js"
+    "build": "browserify ./src/index.js > ./index.js"
   },
-  "keywords": [
-    "Finance",
-    "Money"
-  ],
+  "keywords": [],
   "author": "Evan Hurd",
   "dependencies": {}
 }
